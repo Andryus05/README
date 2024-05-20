@@ -13,11 +13,8 @@ Um mero estudante tentando ficar melhor.
 
 ## Sobre
 
-Explique o propósito do projeto, seus objetivos e o problema que ele resolve. Você também pode mencionar as principais funcionalidades e o público-alvo.
+Postou meus estudos aqui e alguns projetos.
 
-## Instalação
-
-Descreva como instalar seu projeto. Inclua os requisitos de sistema e as dependências necessárias. Por exemplo:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-projeto.git
